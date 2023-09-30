@@ -1,6 +1,6 @@
 # :wave: Say hi to shopify-template-v2 :wave:
 
-## Lessons covered
+## File covered
 
 | Status             | Lectures                     |
 | ------------------ | ---------------------------- |
