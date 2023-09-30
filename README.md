@@ -1,9 +1,5 @@
 # :wave: Say hi to shopify-template-v2 :wave:
 
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
-
-This project is created refering to this course on Udemy! [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/)
-
 ## Lessons covered
 
 | Status             | Lectures                     |
